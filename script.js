@@ -1,3 +1,4 @@
+//जय माँ भद्रकाली
 'use strict';
 
 const number = Math.trunc(Math.random() * 20);
